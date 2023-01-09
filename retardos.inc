@@ -1,8 +1,8 @@
 ;--------------------------------
     ;@file    Retardos.inc
     ;@brief   Libreria para retardos
-    ;@date    06/01/2023
-    ;@author  Alexander Lenin Nuñez Vilchez
+    ;@date    08/01/2023
+    ;@author  Alexander Lenin NuÃ±ez Vilchez
     ;Frecuencia = 4MHz
     ;TCY = 1us
     ;----------------------------
